@@ -1,8 +1,8 @@
 {
-  "name": "contact-list",
+  "name": "React Basic Boiler Code",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/src/index.js",
   "scripts": {
     "start-dev": "NODE_ENV='development' react-scripts start",
     "start": "react-scripts start"

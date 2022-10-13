@@ -1,14 +1,12 @@
 import React from "react";
+import {Navbar} from "./index";
+
 
 const Main = () => {
   return (
     <div id="main">
-    <div id="navbar">
-      <div>Contact List</div>
-    </div>
-    <div id="container">
-      {/* your components here */}
-    </div>
+      <Navbar/>
+      <h1>I am main</h1>
   </div>
   );
 };
